@@ -1,0 +1,9 @@
+requests>=2.28
+beautifulsoup4>=4.12
+playwright>=1.33
+selenium>=4.10
+pytest>=7.3
+
+# Optional / helper libs
+Pillow>=9.5
+lxml>=4.9

@@ -85,7 +85,3 @@ Adjust the test runner or command depending on how `ai_test_generator` formats t
 ## Contributing
 
 Open an issue or submit a pull request with changes. Keep changes minimal and document any added dependencies in `requirements.txt`.
-
----
-
-Generated README for the repository. If you'd like, I can also create a `requirements.txt` skeleton or run the project to verify the workflow locally.
